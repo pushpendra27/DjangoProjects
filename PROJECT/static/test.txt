@@ -1,0 +1,2 @@
+This is your static file. 
+Public Can See This file.
